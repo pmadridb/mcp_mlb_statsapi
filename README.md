@@ -45,7 +45,7 @@ pip install mcp_mlb_statsapi
 or you can clone this repo, run it with soruce code.
 ```bash
 uv venv
-source .venv/bin/activate
+source .venv\Scripts\activate
 uv pip install -r requirements.txt
 ```
 
